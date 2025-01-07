@@ -136,6 +136,8 @@ Samsung,Galaxy S9,Working,Grade A,256GB,Purple,Unlocked
 
 ```plaintext
 brand_name    model_name    condition_name    grade_name    gb_spec_name    colour_name    network_name
+Apple  iPhone 14  Working  Grade A  128GB  Red  Unlocked
+Samsung  Galaxy S9  Working  Grade A  256GB  Purple  Unlocked
 ```
 
 (Tabs between columns, not spaces.)
